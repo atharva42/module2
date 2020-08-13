@@ -1,9 +1,4 @@
-		*{
-			box-sizing: border-box;
-		}
-		.row {
-			width: 100%;
-        }
+	
 		h1{
 			color: purple;
 			text-align: center;
